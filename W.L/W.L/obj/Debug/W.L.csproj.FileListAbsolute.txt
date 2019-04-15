@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\W.L\W.L\bin\Debug\W.L.exe.config
+C:\Users\Zane\source\repos\W.L\W.L\bin\Debug\W.L.exe
+C:\Users\Zane\source\repos\W.L\W.L\bin\Debug\W.L.pdb
+C:\Users\Zane\source\repos\W.L\W.L\obj\Debug\W.L.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\W.L\W.L\obj\Debug\W.L.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\W.L\W.L\obj\Debug\W.L.exe
+C:\Users\Zane\source\repos\W.L\W.L\obj\Debug\W.L.pdb
